@@ -17,6 +17,9 @@ A modern reconstruction of my original 2022 personal portfolio. This project ser
 * **HTML5** - Markup structure
 * **CSS3** - Flexbox & Custom Properties
 
+## Looks
+[.](./assets/original-2022.png)
+
 ## 📂 Project Structure
 ```text
 .

@@ -18,7 +18,7 @@ A modern reconstruction of my original 2022 personal portfolio. This project ser
 * **CSS3** - Flexbox & Custom Properties
 
 ## Looks
-[.](./assets/original-2022.png)
+[.](./assets/a.webp)
 
 ## 📂 Project Structure
 ```text

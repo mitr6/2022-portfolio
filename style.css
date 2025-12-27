@@ -1,0 +1,68 @@
+:root {
+    --bg-color: #1a2327;
+    --card-bg: #242f35;
+    --accent-color: #ffd700; /* Gold from your original lines */
+    --text-main: #ffffff;
+    --text-dim: #b0b8bc;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.logo {
+    font-family: 'Dancing Script', cursive; /* Similar to your original script font */
+    font-size: 2.5rem;
+    border: 2px solid var(--accent-color);
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+.label {
+    color: var(--text-dim);
+    letter-spacing: 2px;
+    font-size: 0.8rem;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid var(--accent-color);
+    margin: 20px 0;
+}
+
+.social-card {
+    background-color: var(--card-bg);
+    border: 1px solid #333;
+    padding: 30px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.image-placeholder img {
+    max-width: 100%;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+    font-size: 0.9rem;
+    color: var(--text-dim);
+}
